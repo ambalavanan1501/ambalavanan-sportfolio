@@ -48,7 +48,7 @@ export const PROJECTS: Project[] = [
   {
     id: 1,
     title: 'Crisis Response Management',
-    image: './crisis.png',
+    image: '/crisis.png',
     githubUrl: '#',
     liveUrl: '#',
     techStack: ['HTML', 'CSS', 'JavaScript'],
@@ -57,7 +57,7 @@ export const PROJECTS: Project[] = [
   {
     id: 2,
     title: 'SKE Textiles',
-    image: './sketextiles.png',
+    image: '/sketextiles.png',
     githubUrl: '#',
     liveUrl: '#',
     techStack: ['React'],
@@ -66,7 +66,7 @@ export const PROJECTS: Project[] = [
   {
     id: 3,
     title: 'E-Voting Using Blockchain',
-    image: './e-voting.png',
+    image: '/e-voting.png',
     githubUrl: '#',
     liveUrl: '#',
     techStack: ['HTML', 'CSS', 'JavaScript', 'Solidity', 'Blockchain'],
@@ -75,7 +75,7 @@ export const PROJECTS: Project[] = [
   {
     id: 4,
     title: 'Online Quiz Management',
-    image: './onlinequiz.png',
+    image: '/onlinequiz.png',
     githubUrl: '#',
     liveUrl: '#',
     techStack: ['PHP', 'JSON'],
